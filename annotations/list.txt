@@ -1,0 +1,6 @@
+ten_1
+fifty_1
+fifty_2
+ten_3
+fifty_3
+ten_2

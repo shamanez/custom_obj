@@ -1,0 +1,26 @@
+<annotation verified="no">
+	<folder>10</folder>
+	<filename>ten_1.jpg</filename>
+	<path>/home/dl/Desktop/Currency/10/ten_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>2322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10 sgd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>613</ymin>
+			<xmax>3138</xmax>
+			<ymax>1974</ymax>
+		</bndbox>
+	</object>
+</annotation>
