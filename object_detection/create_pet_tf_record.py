@@ -43,8 +43,8 @@ from utils import dataset_util
 from utils import label_map_util
 
 flags = tf.app.flags
-flags.DEFINE_string('data_dir', '/home/dl/Desktop/Model', 'Root directory to raw pet dataset.')
-flags.DEFINE_string('output_dir', '/home/dl/Desktop/Model', 'Path to directory to output TFRecords.')
+flags.DEFINE_string('data_dir', 'pwd', 'Root directory to raw pet dataset.')
+flags.DEFINE_string('output_dir', 'pwd', 'Path to directory to output TFRecords.')
 flags.DEFINE_string('label_map_path', 'data/pet_label_map.pbtxt',
                     'Path to label map proto')
 FLAGS = flags.FLAGS
